@@ -1,0 +1,34 @@
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.exe
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.deps.json
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.dll
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.pdb
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD_13_VB_31_Marzo.Form1.resources
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.dll
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\refint\CRUD-13-VB-31-Marzo.dll
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.pdb
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\Alejandro Monzon León V Bachillerato B clave 16\CRUD-13-VB-31-Marzo\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\ref\CRUD-13-VB-31-Marzo.dll
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.exe
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.deps.json
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.runtimeconfig.json
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.dll
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\bin\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.pdb
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD_13_VB_31_Marzo.Form1.resources
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD_13_VB_31_Marzo.Form2.resources
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.csproj.GenerateResource.cache
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.AssemblyInfoInputs.cache
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.AssemblyInfo.cs
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.csproj.CoreCompileInputs.cache
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.sourcelink.json
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.dll
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\refint\CRUD-13-VB-31-Marzo.dll
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.pdb
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\CRUD-13-VB-31-Marzo.genruntimeconfig.cache
+C:\Users\dereklopez\Source\Repos\18DLA01-Derek-Lopez\Ejercicio31-03\CRUD-13-VB-31-Marzo\obj\Debug\net8.0-windows\ref\CRUD-13-VB-31-Marzo.dll
